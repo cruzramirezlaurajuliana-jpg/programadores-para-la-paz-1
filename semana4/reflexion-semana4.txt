@@ -1,0 +1,10 @@
+Las comunidades y organizaciones ciudadanas tienen necesidades reales que muchas
+veces no son atendidas por las grandes empresas tecnológicas. Por eso es importante
+que puedan construir sus propias herramientas usando tecnologías abiertas como Node.js.
+Al ser gratuito y de código abierto, Node.js permite que cualquier persona aprenda
+a programar sin necesidad de pagar licencias costosas. Esto democratiza el acceso
+a la tecnología y permite que comunidades con pocos recursos puedan crear soluciones
+propias adaptadas a su realidad. Además, al construir sus propias herramientas,
+las comunidades no dependen de terceros para gestionar su información. Node.js
+también tiene una comunidad enorme que comparte conocimiento libremente. En
+conclusión, aprender a usar estas tecnologías es un acto de autonomía tecnológica.

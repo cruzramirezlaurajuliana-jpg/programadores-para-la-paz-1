@@ -1,0 +1,12 @@
+Ruta /
+Al entrar a esta ruta el servidor responde con el mensaje "Servidor activo".
+Es la ruta principal o de inicio del servidor.
+
+Ruta /saludo
+Al entrar a esta ruta el servidor responde con "Hola comunidad".
+Es una ruta fija que siempre da el mismo mensaje.
+
+Ruta /mensaje/juan
+Al entrar a esta ruta el servidor lee el nombre que viene en la URL
+y responde con "Hola juan". Si se cambia juan por otro nombre,
+el servidor saluda con ese nombre diferente.

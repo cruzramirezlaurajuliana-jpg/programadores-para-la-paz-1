@@ -1,0 +1,9 @@
+La seguridad digital es esencial para proteger las plataformas que usan comunidades en procesos participativos, porque estas herramientas concentran información sensible de
+muchas personas que confían en ellas para organizarse y tomar decisiones colectivas. Cuando una comunidad participa digitalmente
+comparte datos personales, opiniones y documentos que deben estar protegidos de accesos no autorizados.
+Una falla de seguridad puede exponer esa información, vulnerar la privacidad de los miembros y paralizar procesos importantes. Además, en contextos participativos la confianza es la base de todo
+si las personas sienten que sus datos no están seguros, simplemente dejan de participar.
+Proteger una plataforma comunitaria no es solo una tarea técnica, sino una responsabilidad ética con quienes depositan su información en ella
+Un ataque o filtración puede dañar no solo los datos, sino también la credibilidad de toda la organización o proceso
+Por eso, aplicar buenas prácticas de seguridad garantiza que la tecnología siga siendo una herramienta
+de empoderamiento y no una fuente de riesgo para la comunidad

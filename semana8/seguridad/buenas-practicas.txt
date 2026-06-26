@@ -1,0 +1,4 @@
+No exponer datos personales de usuarios
+Proteger credenciales con hash + 2FA
+Usar conexiones HTTPS/TLS cifradas
+Registrar y auditar accesos al sistema

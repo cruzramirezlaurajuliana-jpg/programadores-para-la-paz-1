@@ -1,0 +1,5 @@
+Escribe 5 prácticas de seguridad que deberían aplicarse en una plataforma digital
+Proteger credenciales con hash + 2FA
+Usar conexiones HTTPS/TLS cifradas
+Registrar y auditar accesos al sistema
+Limitar acceso según el rol

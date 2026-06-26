@@ -1,0 +1,18 @@
+Sistema operativo:
+Es el software base que administra el hardware del computador y permite que todos los demás programas funcionen
+Sin él, ninguna aplicación podría ejecutarse ni acceder a
+recursos como la memoria o la red
+Node.js:
+Es el entorno que permite ejecutar código JavaScript fuera del navegador
+directamente en el servidor. Gracias a él, el archivo
+puede correr y responder peticiones desde la terminal.
+Aplicación
+Es el archivo principal que contiene la lógica del servidor: qué hacer cuando 
+alguien hace una petición, qué responder y cómo manejar los datos. Es el cerebro de la aplicación web
+Puerto
+Es un número que identifica por dónde entra y sale el tráfico de red en un servidor. Por ejemplo, el puerto 3000 o 8080 indica la "puerta"
+específica por la que los usuarios se conectan a la aplicación.
+Logs
+Son registros automáticos que el sistema guarda sobre todo lo que ocurre en la aplicación: errores, accesos, peticiones y eventos importantes
+Sirven para detectar problemas, auditar el comportamiento del sistema y 
+rastrear fallas cuando algo sale mal

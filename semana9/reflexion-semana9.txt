@@ -1,0 +1,15 @@
+Las plataformas tecnológicas que usan las comunidades deben funcionar
+de manera estable y segura en un servidor porque de ello depende que
+las personas puedan acceder a la información y participar sin interrupciones.
+Si una plataforma cae o falla con frecuencia, los procesos colectivos
+se detienen y la comunidad pierde confianza en la herramienta.
+Un servidor estable garantiza que los datos estén siempre disponibles,
+que las conversaciones no se pierdan y que las decisiones queden registradas.
+La seguridad del servidor protege la información sensible de los usuarios
+frente a ataques, robos de datos o accesos no autorizados.
+En contextos comunitarios esto es crítico porque las personas comparten
+información personal y documentos que merecen ser resguardados.
+Una plataforma insegura puede ser manipulada para alterar resultados
+o borrar registros, destruyendo la integridad del proceso participativo.
+La estabilidad y seguridad son condiciones mínimas para que la tecnología
+sea verdaderamente útil y confiable para cualquier comunidad organizada
